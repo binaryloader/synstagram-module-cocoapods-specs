@@ -25,4 +25,4 @@ source 'https://github.com/binaryloader/synstagram-module-cocoapods-specs.git'
 
 ## License
 
-This project is available under the MIT license. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
