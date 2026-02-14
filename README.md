@@ -1,0 +1,1 @@
+# synstagram-module-cocoapods-specs
