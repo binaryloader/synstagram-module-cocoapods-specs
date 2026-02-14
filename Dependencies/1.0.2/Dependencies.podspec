@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.summary = 'Dependencies for iOS application'
   s.swift_version = '5.0'
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '13.0'
 
   s.source = { :git => 'https://github.com/binaryloader/synstagram-module-dependencies.git', :tag => s.version }
 
