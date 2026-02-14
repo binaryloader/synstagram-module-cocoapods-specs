@@ -6,7 +6,7 @@ Private CocoaPods spec repository for Synstagram module pods.
 
 | Pod | Latest Version | Description |
 |-----|---------------|-------------|
-| APIService | 1.0.5 | API service module (Auth) |
+| APIService | 1.0.6 | API service module (Auth) |
 | Dependencies | 1.0.2 | Dependency injection protocols (Login, AlbumList) |
 
 ## Usage
