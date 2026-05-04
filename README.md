@@ -1,5 +1,7 @@
 # synstagram-module-cocoapods-specs
 
+**English** | [한국어](docs/i18n/ko/README.md) | [日本語](docs/i18n/ja/README.md)
+
 Private CocoaPods spec repository for Synstagram module pods.
 
 ## Specs
