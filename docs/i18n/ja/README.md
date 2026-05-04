@@ -1,6 +1,6 @@
-# synstagram-module-cocoapods-specs
-
 [English](../../../README.md) | [한국어](../ko/README.md) | **日本語**
+
+# synstagram-module-cocoapods-specs
 
 Synstagramモジュールpod向けの非公開CocoaPods specリポジトリです。
 
